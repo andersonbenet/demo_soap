@@ -1,4 +1,4 @@
-# demo_soapui
+# demo_soap
 Test library sudslibrary
 
 
